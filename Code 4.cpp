@@ -1,4 +1,4 @@
-// Complete the 8 queens 1 dimensional array program with backtracking that we worked on in class.
+// 8 queens 1-dimensional array program with backtracking.
 
 #include <iostream>
 #include <cstdlib>
