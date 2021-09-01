@@ -1,4 +1,4 @@
-// Complete the "dumb" 8 queens program that we looked at in lecture. Use the 2 dimensional array representation.
+// The "dumb" 8 queens program. The 2-dimensional array representation.
 
 #include <iostream>
 #include <cmath>
